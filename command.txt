@@ -1,0 +1,3 @@
+status - Status of Job/Alias
+update - Update new data from Prometheus API
+test - Just test :D
